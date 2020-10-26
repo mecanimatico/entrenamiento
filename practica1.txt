@@ -1,2 +1,4 @@
 "Hola Mundo"
 Este es un ejercicio de entrenamiento para afianzar conocimiento de github.
+Cabe señalar, que es necesario tener en claro cada uno de los comandos, al comienzo
+se cometen muchos errores; sien embargo, es con la práctica que se logra la destreza.
